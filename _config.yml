@@ -1,0 +1,7 @@
+title: AI Fitness Brief
+description: Daily summaries of fitness and AI app trends
+timezone: America/Los_Angeles
+plugins:
+  - jekyll-feed
+feed:
+  path: feed.xml
