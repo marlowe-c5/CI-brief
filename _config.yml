@@ -5,3 +5,4 @@ plugins:
   - jekyll-feed
 feed:
   path: feed.xml
+future: true
