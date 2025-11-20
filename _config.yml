@@ -1,5 +1,5 @@
-title: AI Fitness Brief
-description: Daily summaries of fitness and AI app trends
+title: CI Brief
+description: Competitive Intelligence daily brief
 timezone: America/Los_Angeles
 plugins:
   - jekyll-feed
